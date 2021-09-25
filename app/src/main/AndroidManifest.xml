@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.devathon.healthcare">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Healthcare">
+        <activity
+            android:name=".medicalRecordsDetails"
+            android:exported="true" />
+        <activity
+            android:name=".patientMedicalRecord"
+            android:exported="true" />
+        <activity
+            android:name=".PatientDetails"
+            android:exported="true" />
+        <activity
+            android:name=".DoctorDetails"
+            android:exported="true" />
+        <activity
+            android:name=".HospitalDetails"
+            android:exported="true" />
+        <activity
+            android:name=".homeRecords"
+            android:exported="true" />
+        <activity
+            android:name=".homeRegistrations"
+            android:exported="true" />
+        <activity
+            android:name=".PatientRegistration"
+            android:exported="true" />
+        <activity
+            android:name=".DoctorRegistration"
+            android:exported="true" />
+        <activity
+            android:name=".HospitalRegistration"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_doctor_details.xml" value="0.25" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_doctor_registration.xml" value="0.25" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_home_records.xml" value="0.1723684210526316" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_home_registrations.xml" value="0.1723684210526316" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_hospital_details.xml" value="0.2" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_hospital_registration.xml" value="0.22" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_medical_records_details.xml" value="0.25" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_patient_details.xml" value="0.25" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_patient_medical_record.xml" value="0.22" />
+        <entry key="..\:/Github/healthcare/app/src/main/res/layout/activity_patient_registration.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
